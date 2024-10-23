@@ -1,9 +1,9 @@
 ---
-layerout: archive
-permalink: /about/
 title: "About"
+layout: archive
+permalink: /about/
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
+# layouts_gallery:
 #  - url: /assets/images/mm-layout-splash.png
 #    image_path: /assets/images/mm-layout-splash.png
 #    alt: "splash layout example"
@@ -26,3 +26,4 @@ last_modified_at: 2024-10-23T23:59:59-09:00
   - 테스트 및 설정 완료
   - about 깨짐 현상 있음
   - category update
+  - about layout update
