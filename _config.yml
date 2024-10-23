@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR" #"en-US"
@@ -26,7 +26,7 @@ url                      : "https://sudo-G41.github.io" # the base hostname & pr
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sudo-G41/sudo-G41.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "https://tistory1.daumcdn.net/tistory/7355544/attach/0444720b6fa942deb0d45664d1044551" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "IIIT" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -123,7 +123,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sudo-G41"
     - label: "Tistory"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-link"
       url: "https://sudo-G41.tistory.com"
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
@@ -153,6 +153,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sudo-G41"
+    - label: "Tistory"
+      icon: "fab fa-fw fa-link"
+      url: "https://sudo-G41.tistory.com"
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
     #   url: ""
