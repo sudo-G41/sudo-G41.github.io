@@ -1,6 +1,6 @@
 ---
 title: "Develop category PAGE"
-permalink: /categories/dev/
+permalink: /dev/
 layout: category
 author_profile: true
 taxonomy: dev

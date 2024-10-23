@@ -1,6 +1,6 @@
 ---
 title: "Security category PAGE"
-permalink: /categories/sec/
+permalink: /sec/
 layout: category
 author_profile: true
 taxonomy: sec
