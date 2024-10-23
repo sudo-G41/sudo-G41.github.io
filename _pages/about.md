@@ -25,3 +25,4 @@ last_modified_at: 2024-10-23T23:59:59-09:00
 - 2024/10/23
   - 테스트 및 설정 완료
   - about 깨짐 현상 있음
+  - category update
