@@ -25,3 +25,4 @@ author_profile: false
 ## Blog Timeline
 - 2024/10/23
   - 테스트 및 설정 완료
+  - category update

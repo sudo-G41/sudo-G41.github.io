@@ -1,5 +1,5 @@
 ---
-title: "etc category PAGE"
+title: "etc by Category"
 permalink: /etc/
 layout: category
 author_profile: true
