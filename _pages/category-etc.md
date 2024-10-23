@@ -1,7 +1,7 @@
 ---
 title: "etc category PAGE"
-permalink: /categories/etc/
+permalink: /etc/
 layout: category
 author_profile: true
-taxonomy: etc
+taxonomy: etc/..
 ---
