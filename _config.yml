@@ -114,11 +114,17 @@ analytics:
 # Site Author
 author:
   name             : "sudo-G41"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://tistory1.daumcdn.net/tistory/7355544/attach/0444720b6fa942deb0d45664d1044551" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "int iron it"
   location         : "Korea"
   email            : "####.###@#####.###"
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sudo-G41"
+    - label: "Tistory"
+      icon: "fab fa-fw fa-github"
+      url: "https://sudo-G41.tistory.com"
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
     #   # url: "mailto:your.name@email.com"
@@ -131,9 +137,6 @@ author:
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
     #   # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/sudo-G41"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   # url: "https://instagram.com/"
