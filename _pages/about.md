@@ -12,6 +12,8 @@ layouts_gallery:
 #    image_path: /assets/images/mm-layout-archive.png
 #    alt: "archive layout example"
 last_modified_at: 2024-10-23T23:59:59-09:00
+
+author_profile: false
 ---
 
 ----
