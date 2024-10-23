@@ -1,4 +1,5 @@
 ---
+layerout: archive
 permalink: /about/
 title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
@@ -12,8 +13,6 @@ layouts_gallery:
 #    image_path: /assets/images/mm-layout-archive.png
 #    alt: "archive layout example"
 last_modified_at: 2024-10-23T23:59:59-09:00
-
-author_profile: false
 ---
 
 ----
@@ -25,3 +24,4 @@ author_profile: false
 ## Blog Timeline
 - 2024/10/23
   - 테스트 및 설정 완료
+  - about 깨짐 현상 있음
