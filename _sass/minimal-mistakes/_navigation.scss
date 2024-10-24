@@ -510,10 +510,11 @@
   -webkit-box-shadow: $box-shadow;
   box-shadow: $box-shadow;
 
+  // background: $primary-color;
   .nav__title {
     color: #fff;
     font-size: $type-size-6;
-    background: $primary-color;
+    background: #D4FBC1;
     border-start-start-radius: $border-radius;
     border-start-end-radius: $border-radius;
   }
