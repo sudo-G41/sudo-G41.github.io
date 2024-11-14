@@ -23,7 +23,7 @@ sitemap :
 
 <img src="/assets/images/back_snapshot/1_before_phone_screenshot.png"/>
 
-현재 "|||"버튼을 눌러 백그라운드로 들어가면 DVBA화면이 보인다.
+현재 "III"버튼을 눌러 백그라운드로 들어가면 DVBA화면이 보인다.
 
 여기서 보여주는 화면은 메인 화면이지만 프로필을 들어가도 마찬가지로 마지막에 본 화면이 노출된다.
 
