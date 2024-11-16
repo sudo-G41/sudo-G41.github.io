@@ -4,7 +4,12 @@ excert: "DVBA를 이용하여 백그라운드 내 스냅샷을 지워 정보를 
 categories:
   - sec
 tags:
-  - 
+  - DVBA
+  - Damn Vukner Bank app
+  - 금융보안
+  - 백그라운드 화면
+  - AOS
+  - Android
 last_modified_at: 2024-11-14T23:59:59+09:00
 
 toc_label: I.N.D.E.X
@@ -31,9 +36,9 @@ sitemap :
 
 이 상태가 문제인 이유는 백그라운드에 대해 간단히 설명하면 AOS(Android OS)는 앱의 마지막 장면을 스냅샷을 찍어 이를 백그라운드에서 보여주는 방식으로 백그라운드 화면을 보여준다.
 
-이때 스냅샷은 "/data/system_ce/0/snapshots" 폴더 같이 특정 폴더에 저장되는데 이때 폰에 바이러스 등 악성 프로그램이 설치되어 공격자가 피해자의 스냅샷을 탈취 할 수 있다면 중요정보가 노출뒨 스냅샷도 탈취가 가능하다는 이야기이다.
+이때 스냅샷은 "/data/system_ce/0/snapshots" 폴더 같이 특정 폴더에 저장되는데 이때 폰에 바이러스 등 악성 프로그램이 설치되어 공격자가 피해자의 스냅샷을 탈취 할 수 있다면 중요정보가 노출된 스냅샷도 탈취가 가능하다는 이야기이다.
 
-그러므로 해당 화면의 스냅샷이 찍히지 않거나 다른 화면으로 대체 될 수 있도록 조치를 취해야 한다.
+그러므로 해당 화면의 스냅샷이 찍히지 않도록 다른 화면으로 대체 될 수 있도록 조치를 취해야 한다.
 
 ## 조치
 <img src="/assets/images/back_snapshot/2_before_backscreen.png">
@@ -48,7 +53,7 @@ MainActivity.java를 보면 플래그를 삽입할 수 있는 코드가 있는�
 
 <img src="/assets/images/back_snapshot/3_FLAG_SECURE.png">
 
-보안 특시 스냅샷 같은 스크린 샷 관련 보안을 적용해주는 플래그임을 알 수 있다.
+보안 특히 스냅샷 같은 스크린 샷 관련 보안을 적용해주는 플래그임을 알 수 있다.
 그러므로
 
 ``` java
