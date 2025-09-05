@@ -12,7 +12,7 @@ tags:
   - security
   - rust
 date: 2025-08-27 19:30:00 +0900
-last_modified_at: 2025-0827T19:30:00+09:00
+last_modified_at: 2025-08-27T19:30:00+09:00
 
 toc_label: "INDEX"
 toc: true
