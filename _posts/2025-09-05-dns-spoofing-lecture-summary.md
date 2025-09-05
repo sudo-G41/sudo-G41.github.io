@@ -18,7 +18,7 @@ toc_label: "INDEX"
 toc: true
 toc_sticky: true
 
-author_profile: false
+author_profile: true
 sitemap :
   changefreq : daily
   priority : 1.0

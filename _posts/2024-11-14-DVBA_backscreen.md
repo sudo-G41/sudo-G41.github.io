@@ -16,7 +16,7 @@ toc_label: I.N.D.E.X
 toc: true
 toc_sticky: true
 
-author_profile: false
+author_profile: true
 sitemap :
   changefreq : daily
   priority : 1.0

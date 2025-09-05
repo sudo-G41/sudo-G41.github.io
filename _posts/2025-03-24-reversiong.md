@@ -16,7 +16,7 @@ toc_label: 첫 게시물 목차 테스트
 toc: true
 toc_sticky: true
 
-author_profile: false
+author_profile: true
 sitemap :
   changefreq : daily
   priority : 1.0
